@@ -1,4 +1,3 @@
-
 # Waste Management And Recycling Automation
 # Welcome to My Project
 
